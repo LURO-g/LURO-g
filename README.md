@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://i.imgur.com/qZMjQ3J.png)
+![Banner](images(45).jpeg)
 
 # 👋 Hola, soy Orlando Luna  
 
