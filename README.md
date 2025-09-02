@@ -13,7 +13,7 @@
 🎓 Estudiante de **Desarrollo de Software Multiplataforma**  
 💡 Apasionado por **crear, aprender y compartir conocimiento**  
 🌱 Actualmente explorando nuevas tecnologías y mejorando mis habilidades en programación  
-⚡ Fun fact: Mi café dura menos que mi código 😆  
+⚡ Fun fact: Mi café dura menos que mi código 
 
 ---
 
