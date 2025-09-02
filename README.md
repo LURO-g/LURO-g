@@ -1,10 +1,10 @@
 <!-- Banner -->
-![Banner](images(45).jpeg)
+![Banner](/images(45).jpeg)
 
 # 👋 Hola, soy Orlando Luna  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFB3&center=true&vCenter=true&width=600&lines=Estudiante+de+Desarrollo+de+Software+Multiplataforma;Apasionado+por+la+tecnología+y+el+aprendizaje;Siempre+buscando+nuevos+retos" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFB3&center=true&vCenter=true&width=600&lines=Estudiante+de+Desarrollo+de+Software+Multiplataforma;Apasionado+por+la+tecnologia+y+el+aprendizaje;Siempre+buscando+nuevos+retos" />
 </p>
 
 ---
